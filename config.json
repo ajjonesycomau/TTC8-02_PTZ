@@ -1,3 +1,4 @@
 {
-    "port":  "COM10"
+    "port":  "COM10",
+    "test":  "blah"
 }
